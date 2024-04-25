@@ -46,5 +46,6 @@ This project was created by Mihirkumar Patel. Contributions are welcome!
 
 ## License
 
-This project is licensed under the . See the LICENSE file for details.  
+This project is licensed under the [MIT License](LICENSE) .  
+See the LICENSE file for details.  
 
