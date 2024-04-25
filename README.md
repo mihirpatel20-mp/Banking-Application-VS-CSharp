@@ -18,7 +18,7 @@ Check account balances.
 ## Getting Started
 
 Download or clone the repository to your local machine.  
-Open the solution file (SimpleBankingApp.sln) in Visual Studio.  
+Open the solution file (Banking App.sln) in Visual Studio.  
 Build the solution to ensure all dependencies are resolved.  
 Run the application in debug mode to launch the banking system.  
 Follow the on-screen instructions to create an account or log in if you already have one.  
